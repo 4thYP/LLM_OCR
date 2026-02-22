@@ -1,0 +1,137 @@
+--- Page 1 ---
+TECHNO MAIN SALT LAKE
+
+( FORMERLY TECHNO INDIA, SALT LAKE )
+
+Subject Mgching Laan‘ Semi i Glee
+(& oo
+Invigllator’s Signature  : .2scscccssuscsssssesisstavescicuessercstsobeteaas Date 24/10/03 l2 5
+
+Pamt A
+
+|. The +Wo most Common Supervised +agks
+ame Remession and classifi @kon.
+
+2 The purpose of a validation BF by 03
+"S USCA ALten -raming ahemodel .
+used to evaluate the model performance
+‘aNd tuning the ymodel.
+
+ene ire
+$2 2 model Preamlers abc pith 
+a |e seegression on
+
+ave.
+Single Feature VAP"
+
+So) Five
+. The AU
+. ‘ Ge a
+Bh. An oo. MORE improvatarnt
+} Spam email defection System:
+Mni B
+
+6) La eae a soli Hed wto teaining
+e da
+testng andvaliaaton-- id
+The rmodel trea
+then the mode
++est dataser.
+
+teaIMing Sek
+ad om. )
+io ¢egtea ON # Unser
+
+--- Page 2 ---
+venting Ac gan sei
+
+3 aot
+When a model larnn noise , From
+
+the training Aet and model Pereforines
+Well tn training Se buf i+does not
+Perrtonm Welk on unseoan data - This
+Ihdi Ges dVerfAttngy -
+be when a model, 48 Mable to Leanrvy
+On the +traimningae ana the model
+| berm dyes net well on training
+alt This Glted Vnden-Fitng -
+— Prevent them : :
+
+a) Uuge A gd M098 sn
+b) Reduce the noise data.
+c) Stale the data.
+
+d) Cross - validation.
+
+9)
+
+Confusion macreirc. Sate
+Confusion moddx 1S d
+
+| of model Performance - a+ Crp’
+
+| “dudes connectlyy ard incomnect|y
+
+| Pre di cled data_value.
+
+ashes iS imp ota :
+| a ®) at cain check acecuralcy
+
+ec
+trom matrix .
+
+--- Page 3 ---
+e)r4 also Can Calcedate pre USion ,
+
+metall F- SWre-
+
+| tM =82 Pre Gsion >
+
+| LOO bho
+
+| fn =5 (0437 (3
+
+1 tP =l6 , 363163
+ReCall = ore ON 2p 1B soe ce
+
+PLEN.. (04%
+, i! 3) set See
+| false negative ke = = aN “1B1@S |?
+| a 20-333
+False pasithve yore = ar _
+2 l— PreecdSior rw
+
+oe
+= (6-469 26-2) gat FT
+er =b035
+4)) In machihe loannin ¢ mode ,
+Dias 15 a wayag terminology
+
+—_—
+
+“vy machine Waning: th Signifies
+Ov +200 19 ywodel Ppentornhg poorly}
+
+vor iance
+aera
+
+| meglly give some
+
+| phase:
+
+"""
+
+--- Page 4 ---
+a+ reduces —
+
+Qa) ty reduce pe Aahe data that
+“11S propre ly Seqllea ana the Site
+oe wae 1S MALUY2CA»
+
+b) to reduce variant g@ rt Can
+Use dimensionally reduction:
+Bia S-varjante trode ff iS a SCENADIO
+“Where spends RAOTTE powrely
+| Incthe +paining Plrase -
+
