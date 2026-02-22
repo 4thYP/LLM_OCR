@@ -1,0 +1,28 @@
+Text Comparison Metrics
+=======================
+
+Reference (DOCX): 13030823136.docx
+Hypothesis (TXT): 13030823136.txt
+
+Edit-distance metrics
+---------------------
+WER (Word Error Rate): 1.169872
+CER (Character Error Rate): 0.642359
+
+BLEU
+----
+BLEU = 4.76 27.4/8.2/2.3/1.0 (BP = 1.000 ratio = 1.473 hyp_len = 514 ref_len = 349)
+BLEU score: 4.763894
+
+ROUGE
+-----
+rouge1: P=0.335938 R=0.418831 F1=0.372832
+rouge2: P=0.135770 R=0.169381 F1=0.150725
+rougeL: P=0.307292 R=0.383117 F1=0.341040
+
+BERTScore
+---------
+Precision: -0.456465
+Recall:    -0.130839
+F1:        -0.297244
+
